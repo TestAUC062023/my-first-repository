@@ -13,4 +13,4 @@
 | ls      | list files and directories |
 | mv      | move file or directory |
 |  pwd  |  present working directory  |
-
+| cd      | change directory |
